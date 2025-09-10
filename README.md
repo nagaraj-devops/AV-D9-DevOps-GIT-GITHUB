@@ -1,4 +1,4 @@
-content = """# Why Use a Version Control System (VCS)?
+# Why Use a Version Control System (VCS)?
 
 A **Version Control System (VCS)** is used to manage and track changes to files (especially code) over time.  
 It is one of the most important tools in software development and system management.  
@@ -43,4 +43,3 @@ It is one of the most important tools in software development and system managem
 
 ## 👉 In Short
 A **version control system is like a time machine + collaboration tool** for your project.
-"""
