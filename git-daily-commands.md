@@ -42,7 +42,7 @@ Here’s a list of the most commonly used Git commands in daily development, alo
 - Saves (commits) the staged changes into the repository history with a message.
 - Example:  
   ```bash
-  git commit -m "Fixed login bug"
+  git commit -m "[2025-09-10 09:50] Fixed login bug"
   ```
 
 ---
